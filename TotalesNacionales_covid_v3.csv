@@ -1,4 +1,4 @@
-Fecha;Casos_nuevos_con_sintomas;Casos_totales;Casos_recuperados;Fallecidos;Casos_activos;Casos_nuevos_sin_sintomas;Casos_nuevos_totales;Casos_activos_por_FD;Casos_activos_por_FIS;Casos_recuperados_por_FIS;Casos_recuperados_por_FD;Casos_confirmados_recuperados;Casos_activos_confirmados;Casos_probables_acumulados;Casos_activos_probables;Casos_nuevos_sin_notificar;Casos_confirmados_por_antigeno;Casos_con_sospecha_de_reinfeccion;Casos_nuevos_confirmados_por_antigeno
+Fecha;Casos-nuevos-con-sintomas;Casos-totales;Casos-recuperados;Fallecidos;Casos-activos;Casos-nuevos-sin-sintomas;Casos-nuevos-totales;Casos-activos-por-FD;Casos-activos-por-FIS;Casos-recuperados-por-FIS;Casos-recuperados-por-FD;Casos-confirmados-recuperados;Casos-activos-confirmados;Casos-probables-acumulados;Casos-activos-probables;Casos-nuevos-sin-notificar;Casos-confirmados-por-antigeno;Casos-con-sospecha-de-reinfeccion;Casos-nuevos-confirmados-por-antigeno
 02-03-2020;1;1;0;0;1;;1;1;;;0;;;;;;;;
 03-03-2020;0;1;0;0;1;;0;1;;;0;;;;;;;;
 04-03-2020;2;3;0;0;3;;2;3;;;0;;;;;;;;
